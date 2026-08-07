@@ -1,7 +1,7 @@
 body {
     background-color: #f4f1ea;
     color: #222222;
-    font-family: Ariel, sans-serif;
+    font-family: Arial, sans-serif;
 }
 header {
     background-color: #6b2d5c;
@@ -25,7 +25,7 @@ main {
 }
 section {
     background-color: white;
-    margin: 20px 0;
+    margin: 20px;
     padding: 20px;
     border-radius: 12px;
 }
