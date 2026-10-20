@@ -1,11 +1,11 @@
 :root{
-    --cor-fundo: #f4f1ea;
+    --cor-fundo: #fdf1d5;
     --cor-texto: #222222;
-    --cor-principal: #1e2677;
-    --cor-segundaria: #5ca7da;
-    --cor-hover: #a0bef5;
+    --cor-principal: #125a33;
+    --cor-segundaria: #0ca157;
+    --cor-hover: #22d188;
     --cor-superficie: white;
-    --cor-card: #88d2fd;
+    --cor-card: #74e779;
     --cor-legenda: #303030;
     --cor-clara: white;
     --cor-rodape: #201818;
